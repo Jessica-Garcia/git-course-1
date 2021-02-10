@@ -14,3 +14,11 @@ quais ainda não se tem acesso
 
 git checkout nome_da_branch_que_foi_trazida_do_repo_remoto => para entrar na branch 
 trazida do repo remoto e para que ela apareça na lista de branches
+
+
+
+Recebendo alterações
+
+*** Sempre ter o cuidado de atualizar antes a branch com git pull quando começar o trabalho com ela
+
+***Sempre atualizar a branch master com git pull antes de criar uma branch a partir dela
