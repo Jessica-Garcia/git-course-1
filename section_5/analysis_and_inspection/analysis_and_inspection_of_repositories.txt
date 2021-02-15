@@ -1,0 +1,6 @@
+Seção 5 - Análise e Inspeção de repositórios
+
+git show => apresenta informações e  detalhes de uma branch
+
+git diff => somente git diff exibe as diferenças entre a branch do repositório local e 
+a do repositório remoto
