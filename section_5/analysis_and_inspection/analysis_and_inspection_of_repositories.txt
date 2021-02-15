@@ -10,3 +10,8 @@ branch cujo nome foi passado
 
 git diff HEAD:nome_do_arquivo_1  nome_do_arquivo_2 => exibe a diferença de código 
 entre o arquivo do repositóio remoto e o arquivo do repositório local
+
+
+Log resumido 
+
+git shortlog => resumo de informações do repositório
