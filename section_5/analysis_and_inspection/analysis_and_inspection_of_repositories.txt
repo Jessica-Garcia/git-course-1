@@ -4,3 +4,7 @@ git show => apresenta informações e  detalhes de uma branch
 
 git diff => somente git diff exibe as diferenças entre a branch do repositório local e 
 a do repositório remoto
+
+git diff nome_de_uma_branch => vai exibir as diferenças entre o branch atual e a 
+branch cujo nome foi passado
+
